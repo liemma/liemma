@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liemma
 - 👀 I’m interested in computer engineering, computer science, and mathematics.
 - 🌱 I’m currently learning programming languages, circuit analysis, and calculus.
-- 💞️ I really love music, photography, and video
+- 💞️ I really love music, video games, and food
 
 <!---
 liemma/liemma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
